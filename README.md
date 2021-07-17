@@ -1,4 +1,4 @@
-# Simple-Game1
+# Description
 Simple game in kaboom.js
 Go to https://replit.com/@TudorPetre08/Simple-Game-in-kaboomjs to play or import into replit to play and edit it replit.
 
